@@ -5,20 +5,21 @@
 }
 
 .background {
-    background-color: #12181B;
-    height: 120vh;
+    background-color: #BE7663;
+    background-size: cover;
+    height: 110vh;
     padding-top: 1px;
 }
 
 .title {
-    color: wheat;
+    color: #F7CB15;
     text-align: center;
     font-size: 30px;
     margin-top: 10%;
 }
 
 .display {
-    color: wheat;
+    color: #F7CB15;
     font-size: 25px;
     text-align: center;
     margin-top: 1em;
@@ -34,7 +35,7 @@
 }
 
 .tile {
-    border: 1px solid whitesmoke;
+    border: 2px solid #F7CB15;
     min-width: 100px;
     min-height: 100px;
     display: flex;
@@ -68,5 +69,5 @@
 }
 
 #restart {
-    background-color: #FF3860;
+    background-color: #F49F0A;
 }
