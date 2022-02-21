@@ -67,7 +67,8 @@ window.addEventListener('DOMContentLoaded', () => {
 
         setTimeout(() => {
             announcer.classList.add('hide');
-        }, 3000)
+            // restartBoard();
+        }, 2000)
         
     };
 
