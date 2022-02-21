@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Itim', cursive;
+}
+
+.background {
+    background-color: #12181B;
+    height: 100vh;
+    padding-top: 1px;
+}
+
+.title {
+    color: wheat;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10%;
+}
